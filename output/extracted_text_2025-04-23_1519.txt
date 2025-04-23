@@ -1,0 +1,14 @@
+🕒 Processed on: 2025-04-23 03:19 PM
+📄 Source File: pgtwo.pdf
+📥 Output File: extracted_text_2025-04-23_1519.txt
+
+
+--- Page 1 ---
+_pt_ _nS_ _RA_ _52_ reg _2S_ _2580_ _M4_ _oO_ 
+
+🔎 Avg Confidence (Page 1): 70.00%
+
+⚠️  Questionable Words:
+pt(63.0) nS(64.0) RA(62.0) 52(67.0) 2S(66.0) 2580(67.0) M4(65.0) oO(60.0)
+
+📊 Overall Average Confidence: 70.00%

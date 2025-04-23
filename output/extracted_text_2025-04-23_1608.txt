@@ -1,0 +1,14 @@
+🕒 Processed on: 2025-04-23 04:08 PM
+📄 Source File: pgtwo.pdf
+📥 Output File: extracted_text_2025-04-23_1608.txt
+
+
+--- Page 1 ---
+_c®3_ _5828_ _mw_ _=,_ HES _BE_ _2858_ _<B_ _BR_ _S85_ _gg_ _28,_ _23_ _<@_ _="_ _Ao_ _=O_ _Sp_ _28_ _pe_ _28_ _To_ _88_ _pt_ _32_ _Eo_ Yom 
+
+🔎 Avg Confidence (Page 1): 76.50%
+
+⚠️  Questionable Words:
+c®3(61) 5828(65) mw(72) =,(61) BE(64) 2858(69) <B(64) BR(64) S85(60) gg(65) 28,(60) 23(71) <@(67) ="(67) Ao(71) =O(65) Sp(61) 28(61) pe(64) 28(71) To(68) 88(68) pt(62) 32(62) Eo(62)
+
+📊 Overall Average Confidence: 76.50%

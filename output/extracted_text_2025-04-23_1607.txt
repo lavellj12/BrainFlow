@@ -1,0 +1,14 @@
+🕒 Processed on: 2025-04-23 04:07 PM
+📄 Source File: pgtwo.pdf
+📥 Output File: extracted_text_2025-04-23_1607.txt
+
+
+--- Page 1 ---
+=, _08_ _ESR_ _00_ _=o_ _wn_ _o8_ _a)_ _ay_ 8B _eZ”_ _Ea_ 2230 BU _9B_ _EQ_ _Ege_ _Bop_ 38 _8§_ _-)_ _Nae”_ 
+
+🔎 Avg Confidence (Page 1): 80.00%
+
+⚠️  Questionable Words:
+08(65) ESR(63) 00(64) =o(70) wn(64) o8(60) a)(61) ay(62) eZ”(60) Ea(65) 9B(64) EQ(61) Ege(64) Bop(64) 8§(74) -)(65) Nae”(60)
+
+📊 Overall Average Confidence: 80.00%

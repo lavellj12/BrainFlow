@@ -1,6 +1,9 @@
 ## OCR Handwriting Model – Development Phase
 ## Author: VellJ | Version: Enterprise Accuracy Prep
 
+## OLDER MODEL/VERSION
+## DO IGNORE BUT REMEMBER ITS HERE
+
 import os
 from datetime import datetime
 from pdf2image import convert_from_path

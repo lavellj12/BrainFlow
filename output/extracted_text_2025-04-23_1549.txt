@@ -1,0 +1,14 @@
+🕒 Processed on: 2025-04-23 03:49 PM
+📄 Source File: pgtwo.pdf
+📥 Output File: extracted_text_2025-04-23_1549.txt
+
+
+--- Page 1 ---
+(a) (b) _(d)_ All rights, titles and interests _Grantors_ in supplies, machinery, 
+
+🔎 Avg Confidence (Page 1): 93.20%
+
+⚠️  Questionable Words:
+(d)(74) Grantors(65)
+
+📊 Overall Average Confidence: 93.20%

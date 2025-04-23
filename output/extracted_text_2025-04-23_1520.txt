@@ -1,0 +1,14 @@
+🕒 Processed on: 2025-04-23 03:20 PM
+📄 Source File: pgtwo.pdf
+📥 Output File: extracted_text_2025-04-23_1520.txt
+
+
+--- Page 1 ---
+COUNTY OF KINGFISHER Bristol Resources Corporation Bristol Resources 1994 LP and Bristol Resources Production Company as DebtorsinPossession in jointly administered Case No 00 21156C11 herein collectively called Grantors pending in the United States Bankruptcy Court for the Southern District of Texas Corpus Christi Division the Bankruptcy Court for Ten Dollars and other good and valuable consideration the receipt and sufficiency of which are hereby acknowledged do hereby GRANT BARGAIN SELL CONVEY ASSIGN TRANSFER SET OVER and DELIVER unto Chaparral Oil LLC an undivided 2955 and unto CEI Bristol Acquisition LP herein jointly called Grantees an undivided of the following described properties rights and interests All right title and interest of Grantors in and to the mineral interests royalty interests overriding royalty interests and oil gas andor mineral leases covering the wells andor lands described on Exhibit hereto and any ratifications andor amendments to such leases whether or not such ratifications or amendments are described on Exhibit insofar as such leases and such ratifications and amendments cover the lands and depths described on Exhibit All rights titles and interests of Grantors in and to or otherwise derived from all presently existing and valid oil gas andor mineral unitization pooling andor communitization agreements declarations andor orders including without limitation all units formed under orders rules regulations or other official acts of any federal state or other authority having jurisdiction and voluntary unitization agreements designations andor declarations relating to the properties described in subsection above to the extent and only to the extent such rights titles and interests are attributable to the properties described in subsection above and All rights titles and interests of Grantors in and to all presently existing and valid production sales contracts operating agreements transportation agreements processing agreements marketing agreements surface use agreements or other agreements and contracts including to the extent assignable any licenses relating to seismic data or the rights to acquire such licenses or data which relate to any of the properties described in subsections and above to the and only to the extent such rights titles and interests are attributable to the properties described in subsections and above All rights titles and interests of _Grantors_ in and to all materials supplies machinery 
+
+🔎 Avg Confidence (Page 1): 94.96%
+
+⚠️  Questionable Words:
+Grantors(66)
+
+📊 Overall Average Confidence: 94.96%
